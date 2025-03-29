@@ -1,4 +1,4 @@
-This tool is an auto task Smmkingdomtask on telegram This tool automates Smmkingdomtask tasks on Telegram using python requests.🔥
+This tool automates Smmkingdomtask tasks on Telegram using python requests.🔥
 Please note that this tool is paid.
 
 
